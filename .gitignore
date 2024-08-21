@@ -1,0 +1,6 @@
+# 忽略macOS生成的.DS_Store文件
+.DS_Store
+
+# 忽略git相关文件夹（通常.git文件夹不需手动忽略，因为它默认被Git忽略）
+.github/
+.ipynb_checkpoints/
