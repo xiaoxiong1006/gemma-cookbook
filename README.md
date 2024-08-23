@@ -18,8 +18,7 @@ Gemma 是一系列先进的轻量级开放模型， 采用了与打造 Gemini �
 
 | 名称                                                                                                                                          | 简介                                                                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Common_use_cases.ipynb](Common_use_cases.ipynb)                                                                                                 | 
-展示Gemma、CodeGemma 和 PaliGemma 的一些常见用例。                                                                                                                  |
+| [Common_use_cases.ipynb](Common_use_cases.ipynb)                                                                                                 |  展示 Gemma、CodeGemma 和 PaliGemma 的一些常见用例。                                                                                                                  |
 | **Gemma**                                                                                                                                        |
 | [Keras_Gemma_2_Quickstart.ipynb](Gemma/Keras_Gemma_2_Quickstart.ipynb)                                                                           | 使用 Keras 快速入门 Gemma 2 预训练 9B 模型的教程                                                                                                                           |
 | [Keras_Gemma_2_Quickstart_Chat.ipynb](Gemma/Keras_Gemma_2_Quickstart_Chat.ipynb)                                                                 |  使用 Keras 指令调优 Gemma 2 9B模型的快速入门教程，参考了这篇[博客](https://developers.googleblog.com/en/fine-tuning-gemma-2-with-keras-hugging-face-update/)。|
@@ -66,7 +65,7 @@ Gemma 是一系列先进的轻量级开放模型， 采用了与打造 Gemini �
 ## 心愿单
 如果您希望在 Gemma Cookbook 中实现特定功能/集成，请通过在[心愿单](https://github.com/google-gemini/gemma-cookbook/blob/main/WISHLIST.md)中添加您的功能请求来向我们发送拉取请求。
 
-如果您想对 Gemma Cookbook 项目做出贡献，欢迎选择[心愿单](https://github.com/google-gemini/gemma-cookbook/blob/main/WISHLIST.md) 中的任何一个想法并实现它。
+如果您想对 Gemma Cookbook 项目做出贡献，欢迎选择[心愿单](https://github.com/google-gemini/gemma-cookbook/blob/main/WISHLIST.md)中的任何一个想法并实现它。
 
 ## 贡献
 我们随时欢迎贡献。请在实施之前阅读[贡献指南](https://github.com/google-gemini/gemma-cookbook/blob/main/CONTRIBUTING.md)。
